@@ -1,0 +1,60 @@
+work path: C:\Work\GalitProjects\AutomatedCarousels
+goal: create Instagram carousels for a jewelry gift only shop.
+input: poem card, jewelry type, from, to, event
+create a marketing storyline with 3 steps.
+Step 1: Emotional hook. ie1: This made her cry. 
+Other steps: see examples.
+
+output: 7 slides
+Slide 1: introduction to jewelry and poem with marketing text hook
+Slide 2: an atmosphere happy picture of recipient and giver of gift. recipient is wearing the relevant jewelry. 
+Other slides: see examples
+
+example1:
+from: grandma,
+to: granddaughter.
+Possible events: birthday, Christmas, mother's day, graduation, first or last day of school, valentine's day, confirmation, communion, bat-mitzvah or just because.
+jewelry type: custom engraved pendant necklace.
+Poem card: Granddaughter4
+Example Path: V:\_Private\GalitHillel\SchoolOfBusiness\Instagram\COIN\Granddaughter
+Image name contains slide number. search relevant slide.
+Text file contains POST CAPTION and HASHTAGS for carousel
+
+SKU structure:
+Each SKU has the following structure: Granddaughter4_G_COM033_Nm
+delimiter: "_"
+First field: poem name
+second field: metal color
+Third field: pendant
+other fields: ignore
+
+these are examples of skills:
+https://github.com/Hainrixz/open-carrusel
+https://github.com/sergebulaev/instagram-skills
+
+Jewelry types by sku:
+_WP, _PP, _DP = floating pearl necklace
+_IC = Interlocking circles necklace
+_COM43 = Silver pendant necklace with engraved picture
+All other _COM = engraved pendant necklace
+_CC = small and large circles necklace
+_SD1, _SD2, _SD3, _SD4, _SD5, _SD6, _SD7, _SD8, _SD9, _SD10, _SD11, _SD12, _D1, _D2, _D3, _D4, _D5, _D6, _D7, _D8, _D9, _D10, _D11, _D12 = drop birthstone necklace
+_TUR, _ONY_, _AME, _EME, _LAB = gemstone necklace
+_SHL, _SHLE1, _LHL, _LHLE1, _SHL-P1, _SHLE1-P1, _LHL-P1, _LHLE1-P1, _SHL-P2, _SHLE1-P2, _LHL-P2, _LHLE1-P2 = Heart Locket Necklace
+_SatP = Satellite Pearl Necklace
+_SZ = Satellite CZ diamond Necklace
+_S1, _S2, _S3, _S4, _S5, _S6, _S7, _S8, _S9, _S10, _S11, _S12 = Satellite and birthstone necklace
+_1, _2, _3, _4, _5, _6, _7, _8, _9, _10, _11, _12 - Birthstone and circle Necklace
+_18, __20, _22, _24 = Cuban link necklace for men/boys
+_TRI = Triangle pendant necklace for men/boys
+_RI = Baroque pearl necklace
+_LV = Lave stone necklace
+_SCP = Small circle pearl necklace
+_BR3, _BR4 = Diamond tennis bracelet
+_ST, _STE = star pendant necklace
+_CR = Cross pendant necklace
+_CP = Circle pearl necklace
+_BR = 2 hearts bracelet
+_MUS = mustard seed necklace
+_BRM, _BRME = Men's/boys bracelet 
+

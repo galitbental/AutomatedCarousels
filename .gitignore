@@ -1,0 +1,33 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Business data and photos: kept on disk only
+DataFromUser/
+RealProductPhotos/
+StyleLibrary/
+Carousels/
+_demo/
+
+# Machine-specific settings and run history (recreated by the app)
+data/*
+!data/styles.json
+
+# Claude Code local files
+.claude/settings.local.json
+.claude/hooks/.obsidian_log_state.json
+
+# Secrets, just in case
+.env
+*.env
+*.key
+*.pem
+
+# OS / editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

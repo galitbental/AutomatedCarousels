@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Work/GalitProjects/AutomatedCarousels/.venv/Scripts/python.exe\" \"C:/Work/GalitProjects/AutomatedCarousels/.claude/hooks/obsidian_log.py\"",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}
